@@ -23,3 +23,4 @@ public class Gorilla extends Mammal {
 		this.energyLevel -= 10;
 	}
 }
+k
